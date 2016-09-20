@@ -1,0 +1,110 @@
+.omniweb-showtimes-content .form-table th {
+  padding: 10px 10px 10px 0;
+  font-weight: 600;
+}
+
+.omniweb-showtimes-content .form-table td {
+  margin-bottom: 9px;
+  padding: 7px 10px;
+}
+
+.omniweb-showtimes-content .form-table .omniweb-showtimes-field-td-no-title {
+  padding: 0;
+}
+
+.omniweb-showtimes-checkbox-label {
+  width: 100%;
+}
+
+@media (min-width: 560px) {
+  .omniweb-showtimes-checkbox-label {
+    width: 45%;
+  }
+}
+
+@media (min-width: 840px) {
+  .omniweb-showtimes-checkbox-label {
+    width: 30%;
+  }
+}
+
+@media (min-width: 1280px) {
+  .omniweb-showtimes-checkbox-label {
+    width: 20%;
+  }
+}
+
+#theatre_information fieldset label {
+  font-size: 14px;
+  color: #444;
+  display: block;
+  margin: .25rem 0;
+}
+
+#theatre_information fieldset label ~ label {
+  font-weight: normal;
+}
+
+
+.omniweb-showtimes-repeatable-section-buttons {
+  /* margin-top: .5rem !important; */
+}
+
+/*.repeatable-section-button:after {
+  content: attr(title);
+  padding-left: 4px;
+}*/
+
+#sections-theatre_tickets .omniweb-showtimes-field {
+  width: 100%;
+}
+#sections-theatre_tickets .omniweb-showtimes-input-label-container {
+  display: block;
+  margin-bottom: 0;
+}
+
+#sections-theatre_tickets caption {
+  padding: 0;
+}
+
+#sections-theatre_tickets .accordion-section-title {
+  padding: .5rem;
+}
+
+#sections-theatre_tickets .accordion-section-content {
+  padding: .5rem;
+}
+
+#sections-theatre_tickets .omniweb-showtimes-field {
+  margin: 0;
+}
+#sections-theatre_tickets .omniweb-showtimes-fieldset {
+  margin: 0;
+}
+
+#sections-theatre_tickets th {
+  display: none;
+}
+
+#sections-theatre_tickets td {
+  padding: 0;
+}
+
+#sections-theatre_tickets tr:last-child td {
+  margin-bottom: 0;
+}
+
+#sections-theatre_tickets .form-table label {
+  margin: 0 !important;
+}
+
+#sections-theatre_tickets .accordion-section-title:after {
+  right: 8px;
+}
+
+.field-description .description {
+  display: none;
+}
+.field-description textarea {
+  height: 48px !important;
+}

@@ -1,0 +1,146 @@
+
+
+/*.showtimewrap {
+  width: auto;
+  padding: 10px;
+  font-family: 'Oswald', sans-serif;
+  text-transform: none;
+  transition: opacity .2s ease;
+  margin: 1rem 0;
+  border: 1px solid #ddd;
+}
+
+.thumbbox img {
+  width: 100px;
+}
+
+.duration {
+  display: inline-block;
+  margin-top: 5px;
+}
+
+.plottext {
+  color: #777;
+  font-size: 12px;
+  line-height: 1.45;
+  text-transform: none;
+  font-family: sans-serif;
+}
+
+.showtimes a {
+}
+
+.showtimeDateForm {
+  display: flex;
+}
+
+.showtimeDateForm input[name=date] {
+  display: none;
+}
+
+.showtimeDateForm input[name=date]:checked ~ label {
+  background: #ededed;
+  color: #333;
+  border-bottom: 3px solid #0f8fc1;
+}
+
+.showtimeDateForm-dateSelect {
+  width: 100%;
+}
+
+.showtimeDateForm-dateSelect label {
+  display: block;
+  padding: .5rem;
+}
+
+.showtimeDateForm-dateSelect label:hover {
+  background: #ddd;
+  cursor: pointer;
+}
+
+.showtimeDateForm-dateSelect-weekday {
+  font-family: 'Oswald', 'Arial Narrow', sans-serif;
+  font-size: 1rem;
+  text-transform: uppercase;
+}
+
+.showtimeDateForm-dateSelect-weekday small {
+  color: #aaa;
+}
+
+figure {
+  margin: 0;
+}
+
+.filmListing {
+  display: flex;
+  align-items: top;
+}
+
+.filmListing-poster {
+  padding: .5rem;
+  width: 120px;
+  flex-shrink: 0;
+}
+
+.filmListing-poster img {
+  width: 100%;
+}
+
+.filmListing-rating {
+  font-weight: normal;
+  font-size: .8rem;
+}
+
+.filmListing-title {
+  font-weight: bold;
+  margin: 0;
+}
+
+.filmListing-runtime {
+  display: inline-block;
+  font-size: .8rem;
+}
+
+.filmListing-synopsis {
+  text-align: justify;
+  font-size: .8rem;
+}
+
+.filmListing-performances,
+.filmListing-performances-3d {
+  padding: .5rem 0;
+}
+
+.showtimes span {
+  display: block;
+  font-size: 1.2em;
+  text-transform: uppercase;
+  margin: .75em 0 .25em;
+}
+
+.filmListing-performance {
+  display: inline-block;
+  text-decoration: none;
+  color: #fff;
+  font-size: .8rem;
+  letter-spacing: .03em;
+  background: #0f8fc1;
+  border: 1px solid #0d7eab;
+  border-radius: 2px;
+  padding: .1rem .3rem;
+  margin: 0 .25rem;
+}
+
+.filmListing-performance:first-of-type {
+  margin-left: 0;
+}
+
+.filmListing-performance:hover {
+  background: #1e9ed0;
+  border: 1px solid #3191b6;
+  border-radius: 2px;
+}
+
+@media screen and (max-width: 480px) {
+}*/
